@@ -8,6 +8,6 @@ public class Main {
         int b = sc.nextInt();
         int c = sc.nextInt();
         System.out.println(a+b+c);
-        System.out.printf("%.0f",(double)(a+b+c)/3);
+        System.out.printf("%d",(a+b+c)/3);
     }
 }
